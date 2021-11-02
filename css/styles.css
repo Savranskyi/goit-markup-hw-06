@@ -784,7 +784,6 @@ button {
 
   transition: background-color var(--transition-duration) var(--transition-function);
 }
-
 .subscribe-button:hover,
 .subscribe-button:focus {
   cursor: pointer;
@@ -797,3 +796,5 @@ button {
 .subs-icon {
   margin-left: 10px;
 }
+/* TODO: */
+/* Make Capitalize For All Words  */
